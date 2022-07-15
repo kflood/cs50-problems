@@ -1,3 +1,6 @@
+# Author kflood
+# Takes meal cost and desired tip percentage as user input, and returns tip ammount in dollars
+
 def main():
     dollars = dollars_to_float(input("How much was the meal? "))
     percent = percent_to_float(input("What percentage would you like to tip? "))

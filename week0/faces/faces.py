@@ -1,3 +1,7 @@
+
+# Author kflood
+# Converts two text patterns into emojis
+
 def main():
     # Prompt user for text input
     user_text = input()
