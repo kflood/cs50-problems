@@ -1,4 +1,3 @@
-
 # Author kflood
 # Converts two text patterns into emojis
 

@@ -1,4 +1,3 @@
-
 # Author kflood
 # Takes all-caps text input and converts it to lower-case, then prints
 
