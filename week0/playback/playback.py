@@ -1,5 +1,6 @@
-# Take text input from user and replace whitespace with '...'
+# Author kflood
+# Takes text input from user and replaces whitespace with '...', then prints
+
 user_text = input().replace(" ", "...")
 
-# Output converted text
 print(user_text)
