@@ -1,5 +1,5 @@
 # Author kflood
-# Determines the value of E in joules for a user-provided value of m in grams, per the equation E=mc^2
+# Determines the value of 'E' in joules for a user-provided value of 'm' in grams, per the equation E=mc^2
 
 def main():
     # user input of mass
